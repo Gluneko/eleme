@@ -161,6 +161,7 @@
 
 <style lang="stylus" rel="stylesheet/stylus">
     @import "../../common/stylus/mixin.styl"
+
     .goods
         display: flex
         position: absolute
